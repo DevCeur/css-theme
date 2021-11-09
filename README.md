@@ -7,6 +7,10 @@ light and dark theme using just CSS and Javascript.
 
 Well, it's main files are the `lightTheme.ts`, `darkTheme.ts` and the `global.css`, the global and lightTheme are super related, if you edit the global one, you should edit the lightTheme one (right now idk how to improve this).
 
+## :eyes: Demo
+
+See a live demo [HERE](https://css-theme.vercel.app/)
+
 ## Getting Started
 
 This is a Next.js project bootstrapped with create-next-app.
