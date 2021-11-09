@@ -31,7 +31,7 @@ const HomePage = () => {
         <button onClick={handleToggleTheme}>Toggle Theme</button>
         <div className={styles.social_links}>
           <a
-            href="https://github.com/DevCeur"
+            href="https://github.com/DevCeur/css-theme"
             rel="noopener noreferrer"
             target="_blank"
           >
